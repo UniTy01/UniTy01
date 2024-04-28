@@ -1,16 +1,26 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub! 👋
 
-<!--
-**UniTy01/UniTy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ?
 
-Here are some ideas to get you started:
+Je suis 0xUniTy, un étudiant passionné de Belgique, spécialisé en cybersécurité. Toujours en quête de connaissances et d'expériences dans le domaine de la sécurité informatique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes compétences
+
+- 🔒 Sécurité informatique: Analyse de vulnérabilités, tests d'intrusion, protection des données
+- 💻 Programmation: Python, C, Bash
+- 📡 Réseaux: Configuration, surveillance, détection d'intrusions
+- 🛡️ Cryptographie: Chiffrement, décryptage, protocoles de sécurité
+
+## Mes passions
+
+- 🎮 Capture du drapeau (CTF): Je participe régulièrement à des compétitions CTF pour améliorer mes compétences en cybersécurité.
+- 📚 Lecture: J'aime explorer les dernières avancées et les tendances en matière de sécurité informatique.
+- 🎵 Musique: Quand je ne suis pas en train de coder, vous me trouverez probablement en train d'écouter de la musique.
+
+## Contact
+
+N'hésitez pas à me contacter pour discuter de la sécurité informatique, des projets collaboratifs ou simplement pour échanger des idées!
+
+- 🔗 LinkedIn: [linkedin.com/in/0xUniTy]((https://www.linkedin.com/in/maxence-londot-10103b1a5/))
+
+
