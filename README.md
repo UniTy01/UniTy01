@@ -21,6 +21,6 @@ Je suis 0xUniTy, un étudiant passionné de Belgique, spécialisé en cybersécu
 
 N'hésitez pas à me contacter pour discuter de la sécurité informatique, des projets collaboratifs ou simplement pour échanger des idées!
 
-- 🔗 LinkedIn: [linkedin.com/in/0xUniTy]((https://www.linkedin.com/in/maxence-londot-10103b1a5/))
+- 🔗 LinkedIn: [linkedin.com/in/maxence-londot-10103b1a5/]((https://www.linkedin.com/in/maxence-londot-10103b1a5/))
 
 
