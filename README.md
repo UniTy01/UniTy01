@@ -7,7 +7,7 @@ Je suis 0xUniTy, un étudiant passionné de Belgique, spécialisé en cybersécu
 ## Mes compétences
 
 - 🔒 Sécurité informatique: Analyse de vulnérabilités, tests d'intrusion, protection des données
-- 💻 Programmation: Python, C, Bash
+- 💻 Programmation: Python, Php, Bash
 - 📡 Réseaux: Configuration, surveillance, détection d'intrusions
 - 🛡️ Cryptographie: Chiffrement, décryptage, protocoles de sécurité
 
